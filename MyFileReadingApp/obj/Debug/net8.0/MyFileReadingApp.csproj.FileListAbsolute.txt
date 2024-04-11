@@ -1,0 +1,15 @@
+/workspaces/file_reader/MyFileReadingApp/bin/Debug/net8.0/MyFileReadingApp
+/workspaces/file_reader/MyFileReadingApp/bin/Debug/net8.0/MyFileReadingApp.deps.json
+/workspaces/file_reader/MyFileReadingApp/bin/Debug/net8.0/MyFileReadingApp.runtimeconfig.json
+/workspaces/file_reader/MyFileReadingApp/bin/Debug/net8.0/MyFileReadingApp.dll
+/workspaces/file_reader/MyFileReadingApp/bin/Debug/net8.0/MyFileReadingApp.pdb
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/MyFileReadingApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/MyFileReadingApp.AssemblyInfoInputs.cache
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/MyFileReadingApp.AssemblyInfo.cs
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/MyFileReadingApp.csproj.CoreCompileInputs.cache
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/MyFileReadingApp.sourcelink.json
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/MyFileReadingApp.dll
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/refint/MyFileReadingApp.dll
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/MyFileReadingApp.pdb
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/MyFileReadingApp.genruntimeconfig.cache
+/workspaces/file_reader/MyFileReadingApp/obj/Debug/net8.0/ref/MyFileReadingApp.dll
